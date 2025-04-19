@@ -162,7 +162,7 @@ function Home() {
               View Projects
             </button>
             <button className="bg-transparent border-2 border-white text-white px-6 py-3 font-medium rounded-lg hover:bg-white hover:text-blue-500 transition-all duration-300">
-              <a href="./public/resume.pdf" download="resume">Download CV</a>
+              <a href="./resume.pdf" download="resume">Download CV</a>
             </button>
           </div>
         </div>
@@ -173,7 +173,7 @@ function Home() {
         >
           <div className="relative rounded-3xl overflow-hidden shadow-2xl">
             <img 
-              src="./public/image.png" 
+              src="./image.png" 
               alt="Arjun Reji - Developer" 
               className="object-cover max-w-full h-auto"
             />

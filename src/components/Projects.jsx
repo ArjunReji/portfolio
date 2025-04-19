@@ -90,7 +90,7 @@ function Projects() {
       
       Built with React, Node.js, MongoDB, and Tailwind CSS, this system improves operational 
       efficiency and data-driven decision-making for modern agricultural management.`,
-      image: "./public/mainproject.png"
+      image: "./mainproject.png"
     },
     {
       title: "E-Commerce Platform",
@@ -106,7 +106,7 @@ function Projects() {
       
       Backend services are consumed via REST APIs for product listing, cart management, and order 
       processing, creating a seamless shopping experience.`,
-      image: "./public/ecommerse.png"
+      image: "./ecommerse.png"
     },
     {
       title: "Random Quote Generator",
@@ -122,7 +122,7 @@ function Projects() {
       
       The core functionality is contained in the QuoteGenerator component, which updates the 
       display whenever users request a new quote through an intuitive interface.`,
-      image: "./public/randomquotegenerator.png"
+      image: "./randomquotegenerator.png"
     },
     {
       title: "Tesla Home Page Front-End",
@@ -138,7 +138,7 @@ function Projects() {
       
       This project showcases attention to detail and the ability to replicate complex 
       designs with clean, maintainable code for an optimal desktop experience.`,
-      image: "./public/teslafrontend.png"
+      image: "./teslafrontend.png"
     }
   ];
 
